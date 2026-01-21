@@ -1,0 +1,6 @@
+<?php
+header("Content-type: text/plain");
+echo "User-agent: *\n";
+echo "Disallow: /admin/\n";
+echo "Sitemap: https://drmekouarmounia.com/sitemap.xml\n";
+?>

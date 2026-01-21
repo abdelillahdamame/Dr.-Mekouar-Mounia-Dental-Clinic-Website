@@ -1,0 +1,20 @@
+{
+    "name": "ayman/site_dr-mekour_front_end",
+    "autoload": {
+        "psr-4": {
+            "Ayman\\SiteDrMekourFrontEnd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lumiatechnologie",
+            "email": "social@lumiatechnologie.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "drewm/mailchimp-api": "^2.5",
+        "mailchimp/marketing": "^3.0",
+        "mailchimp/mailchimp": "^2.0"
+    }
+}
